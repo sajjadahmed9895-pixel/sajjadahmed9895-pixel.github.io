@@ -1,1 +1,12 @@
-
+<head>
+<style>
+.box {
+  width: 200px;
+  padding: 25px;
+  border: 5px solid black;
+  margin: 50px;
+  background-color: lightblue;
+}
+</style>
+</head>
+  

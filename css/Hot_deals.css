@@ -59,7 +59,15 @@ a {
   outline: 2px solid #FFFFFF;
   outline-offset: 3px
 }
-
+.page-text {
+  padding: 22px 40px 0
+}
+.page-title {
+  color: #FFFF00;
+  font-size: 40px;
+  font-weight: 900;
+  margin: 0 0 6px 0;
+}
 .search-bar {
   max-width: 1000px;
   margin: 22px auto 8px;

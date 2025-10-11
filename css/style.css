@@ -274,8 +274,7 @@
       }
 
       .footer-inner {
-        grid-template-columns: 1fr 1fr;
-        gap: 30px;
+        grid-template-columns: 1fr;
       }
 
       .footer-text-app {
